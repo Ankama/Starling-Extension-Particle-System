@@ -3,6 +3,7 @@ bin-debug/
 bin-release/
 bin/
 out/
+target/
 
 # Project property files
 .settings/
